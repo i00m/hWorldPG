@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "ro.tonca.hworldosx"
+        }
+    }
+}
